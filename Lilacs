@@ -1,17 +1,10 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title> Lilac Photo Gallery</title>
-  </head>
-<body>
-<h1> Lilac Photo Gallery</h1>
-<div class="photo gallery">
-  <img src="Lilac1.jpg" alt="lilac" />
-  <img src="Lilac2.jpg" alt="lilac" />
-  <img src="Lilac3.jpg" alt="lilac" />
-  <img src="Lilac4.jpg" alt="lilac" />
-  <img src="Lilac5.jpg" alt="lilac" />
-</div>
-<p> All images are licensed under Creative Commons or are in the public domain.These photos were found on <strong> wikimedia commons </strong> </p>
-</body>
-</html>
+<html lang<"en">
+<header>
+  <h1>My News Hub</h1>
+</header>
+<p>This is the latest news! Keeping you updated on everything current! Below is the most recent news!</p>
+<strong>Breaking News! Hurricane Milton strengthens to catergory five</strong>
+<p>Florida is urging those who haven't to evacute before it's too late...</p>
+<a href="https://www.usatoday.com/story/news/nation/2024/10/08/hurricane-milton-live-updates-florida-tuesday/75563336007/" >Read full article with this link!</a>
+<a href="Hurricane Milton live updates_ Storm regains Cat 5 strength.pdf" target="_blank">Click here to view the PDF</a>
